@@ -9,6 +9,7 @@
   Stop letting X track your every move or block you with mandatory pop-ups. 
 
   **[Twitter Web Viewer](https://twitterwebviewer.com/)** is a privacy-focused gateway designed to let you **search X online** and **view Twitter profiles anonymously**. No digital fingerprint, no tracking, no account needed. Just pure access.
+  - **Localized Versions**: [Twitter ohne Account (DE)](https://twitterwebviewer.com/de) | [Twitter アカウントなし (JA)](https://twitterwebviewer.com/ja)
 
   👉 **[Start Browsing Anonymously Now](https://twitterwebviewer.com/)**
 
